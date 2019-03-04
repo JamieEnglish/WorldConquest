@@ -1,3 +1,35 @@
 <resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
     <string name="app_name">WorldConquest</string>
+    <string name="logo">Logo</string>
+    <string name="appHelp">This is the help screen for WorldConquest</string>
+    <string name="appHelpExtra">There is no help!</string>
+    <string name="appDisplayName">World Conquest</string>
+    <string name="appDesc">World Conquest provides the user with an entertaining way of tracking what you\'ve done on holidays and earn rewards</string>
+    <string name="appMoreInfo">For more information about World Conquest or to provide feedback please visit our website.</string>
+    <string name="appAbout">About World Conquest</string>
+    <string name="appWebsite">github.com/JamieEnglish/WorldConquest</string>
+    <string name="developer">Developed by Jamie English</string>
+
+    <string name="searchTripsLbl">Search Trips\'s</string>
+    <string name="currentTripsLbl">Favourite Coffee\'s</string>
+    <string name="addATripsLbl">Trip Check In</string>
+    <string name="addTripsBtnLbl">Add Trip</string>
+    <string name="saveTripBtn">Save Trip</string>
+    <string name="recentlyViewedLbl">Recently Added Trip\'s</string>
+    <string name="tripNameLbl">Name :</string>
+    <string name="tripCountryLbl">Country :</string>
+    <string name="tripPriceLbl">Price :</string>
+    <string name="tripRatingLbl">Star Rating</string>
+    <string name="tripDetailsLbl">Full Trip Details</string>
+    <string name="informationLbl">Information</string>
+    <string name="emptyMessageLbl">You have no Trip\'s added, go have an adventure!</string>
+    <string name="deleteTripsLbl">Delete Trips</string>
+    <string name="editTripsLbl">Edit a Trip</string>
+
+    <string name="tripMilestone1Lbl">Milestone 1: </string>
+    <string name="tripMilestone2Lbl">Milestone 2: </string>
+    <string name="tripMilestone3Lbl">Milestone 3: </string>
 </resources>
